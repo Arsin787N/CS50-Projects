@@ -1,4 +1,4 @@
-# 02C-Scrabble
+# 02Arrays-Scrabble
 
 ## Overview
 This exercise implements a simple version of the Scrabble game where two players input words and the program calculates scores based on letter values to determine the winner.
