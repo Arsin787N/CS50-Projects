@@ -1,4 +1,4 @@
-# 03Arrays-Caesar
+# 02Arrays-Caesar
 
 ## Overview
 This program implements the **Caesar cipher**, a simple encryption technique that shifts each letter in the plaintext by a fixed number of positions in the alphabet.  
